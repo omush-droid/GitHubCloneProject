@@ -1,2 +1,4 @@
-Objective: Practice branching and resolving conflicts in Git.
-Modification in main branch.
+modification in main branch.
+
+this is a new feature
+
